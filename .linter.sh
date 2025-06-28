@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/kavia/workspace/code-generation/tictactrack-61652-fa901972/tic_tac_toe_backend
+cd /home/kavia/workspace/cmbc18fc77/tictactrack-61652-fa901972/tic_tac_toe_backend
 source venv/bin/activate
 flake8 .
 LINT_EXIT_CODE=$?
